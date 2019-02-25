@@ -1,0 +1,38 @@
+.imagen-personal {
+    display: block;
+    position: absolute;
+    left: 45%;
+    z-index: 5;
+    width: 150px;
+    height: 200px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid grey;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: #155149;
+    padding-left: 3em;
+    padding-right: 3em;
+    z-index: 2;
+
+    a {
+        color: #E2FBF7;
+        &:hover {
+            color: #d64830;
+        }
+
+        &:visited {
+            color: #E2FBF7;
+        }
+    }
+
+    p {
+        margin: 0;
+        color: #E2FBF7;
+    }
+}

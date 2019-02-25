@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Inknut-Antiqua';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Inknut Antiqua'),
+         url(ttf/InknutAntiqua-Bold.ttf) format('truetype');
+}
+
+.txt-planeacion {
+    padding-bottom: 400px;
+}
+
+.txt-titulo {
+    background-color: #5F1812;
+    color: #d7a8a0;
+    padding: 4em;
+    h1 {
+        font-weight: 800;
+        font-family: Roboto;
+        font-size: 50px;
+    }
+}
+
+.box-content {
+    text-align: inline;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    font-weight: 400;
+    font-family: 'Georgia';
+    font-size: 30px;
+    color: #161819;
+
+    img {
+        width: 10%;
+    }
+
+    cite {
+        float: right;
+    }
+}
+
+.box-content:nth-child(2n+1) {
+    background-color: #5C836E;
+
+    strong {
+        color: #155149;
+    }
+}
+
+.box-content:nth-child(2n) {
+    background-color: #d7a8a0;
+
+    strong {
+        color: #d64830;
+    }
+}

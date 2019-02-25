@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Informe Clase 1"
+date:   2018-08-01 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Usted Gana Lo Que Quiere"
+description: "Primera Clase, se ponen las reglas y se hacen un analisis de la actual ingenieria..."
+---
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/1.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/1.png "Mapa Mental 1")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender y dar un brochazo del concepto de ingeniería, los errores comunes de una persona, lo mal que está Colombia.
+
+### Lo que Aprendi
+Nos pusimos de acuerdo con las reglas de la materia, como íbamos a evaluar, las pautas metodológicas, las herramientas imprescindibles que necesita entender todo Ingeniero de sistemas que se respete y que actúe con el ámbito, se hace un llamado de atención de cómo se debe ejercer el oficio, los ámbitos y bases necesarias para ser un gerente de sistemas, de la forma como un ingeniero debe ver el mundo, lo fácil que puede llegar a ser interpretar o cosas básicas como lo es el analizar. Un ingeniero debe ver todo.
+
+### Tabla de Datos
+
+| Consultas                                                | Biografias     | Libros         | Videos                 |
+| ---------                                                | ----------     | ------         | ------                 |
+| Que es la Vida                                           | Zygmunt Bauman | Mapas Mentales | Copiando la Naturaleza |
+| Qué es lo que se necesita para ser ingeniero de sistemas | Eduardo Punset |                | Llamada a la Crítica   |
+| Como se comporta la ingeniería de sistemas en el 2025    |                |                |                        |
+| Que es la ingeniería de Sistemas                         |                |                |                        |
+| Cuales Son las Herramientas                              |                |                |                        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/1.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/1.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/1.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/1.xmind "Mapa Mental")

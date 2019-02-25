@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="espacio">
+</div>
+
+<div class="post container">
+    <h1>Mapas Mentales de Consultas y Libros</h1>
+    <p>Seccion enfocada en la muestra de cada uno de los mapas mentales de consultas en investigaciones, esto claramente enfocado en libros y consultas.</p>
+
+    <div class="container">
+        <ul class="post-list">
+            {% for post in site.posts %}
+            {% if post.reference == "informe" %}
+            <li class="post-s-description">
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <h2 class="post-frase">{{ post.frase }}</h2>
+                <p class="post-description">{{ post.description }}</p>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>

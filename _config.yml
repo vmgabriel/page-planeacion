@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Gabriel Vargas Monroy - Planeacion de Sistemas de informacion
+
+name: Gabriel
+
+lastname: Vargas Monroy
+
+school: Universidad Distrital Francisco José de Caldas
+title2: Gerencia Estrategica
+longtitle: Gerencia Estrategica, Sistema Abierto de Complejidad Creciente
+email: gvargasmonroy@acm.org
+description: > # this means to ignore newlines until "baseurl:"
+ la situacion actual de las organizaciones tienen que ser vistos desde un punto de vista sistemico entendiendo a estos como un sistema vivo complejo y tendiente a una entropia claramente creciente, es por ello que los enfoques deben basarse en sistemas abiertos de comple jidad creciente, dispuesto a tener una toma de deciones que pueden generar consecuencias enfocadas al desarrollo del sistema globalizado.
+baseurl: "/planeacion" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
+twitter_username: v_mgabriel
+github_username:  vmgabriel
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]

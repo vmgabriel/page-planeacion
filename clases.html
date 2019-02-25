@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="espacio">
+</div>
+
+<div class="post container">
+    <h1>Lista de Todas Las Clases</h1>
+    <p>Se evidencia en este cada uno de los mapas mentales y sus respectivas caracteristicas que evidencia todo el conocimiento adquridoo, en busqueda de dar los resulttados esperados.</p>
+
+    <div class="container">
+        <ul class="post-list">
+            {% for post in site.posts %}
+            {% if post.reference == "clase" %}
+            <li class="post-s-description">
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <h2 class="post-frase">{{ post.frase }}</h2>
+                <p class="post-description">{{ post.description }}</p>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>

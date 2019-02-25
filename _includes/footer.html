@@ -1,0 +1,68 @@
+<footer>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <h5>{{ site.title2 }}</h5>
+            </div>
+            <p>{{ site.longtitle }}</p>
+            <div class="row">
+                <div class="col-sm-12 col-lg-4">
+                    <h5>
+                        Sitios
+                    </h5>
+                    <ul class="lista">
+                        {% for my_page in site.pages %}
+                        {% if my_page.title %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                        </li>
+                        {% endif %}
+                        {% endfor %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ site.baseurl }}/clases">Clases</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ site.baseurl }}/proyecto">Proyecto</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ site.baseurl }}/clases">Mapas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ site.baseurl }}/clases">Informes</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-12 col-lg-8">
+                    <div class="row">
+                        <div class="col-sm-12 col-lg-4">
+                            <h5>Contacto</h5>
+                            <ul class="social-media-list">
+                                {% if site.github_username %}
+                                <li>
+                                    {% include icon-github.html username=site.github_username %}
+                                </li>
+                                {% endif %}
+
+                                {% if site.twitter_username %}
+                                <li>
+                                    {% include icon-twitter.html username=site.twitter_username %}
+                                </li>
+                                {% endif %}
+                            </ul>
+                            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                        </div>
+                        <div class="col-sm-12 col-lg-8">
+                            <h5>Descripcion</h5>
+                            <p>{{ site.description }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-md-center">
+                <p class="copyright">Copyright © 2015 - 2018 Universidad Distrital Francisco José de Caldas. Todos los derechos reservados.
+                    <br/>Licencia enfocada para los estudiantes y sus distintos proyectos dentro de la universidad.
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>

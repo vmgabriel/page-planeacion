@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// OSCSS
+
+// BASE
+@import "_base/_config",
+        "_base/_default",
+        "_base/_syntax-highlighting";
+
+// LAYOUT
+@import "_layout/_l-main.scss",
+        "_layout/_l-header.scss",
+        "_layout/_l-footer.scss",
+        "_layout/_l-index.scss";
+
+// MODULES
+@import "_modules/_m-navbar",
+        "_modules/_m-icon",
+        "_modules/_m-a",
+        "_modules/_m-img",
+        "_modules/_m-fig",
+        "_modules/_m-rss",
+        "_modules/_m-lastName";
+
+// STATES
+@import "_states/_s-navbar",
+        "_states/_s-a",
+        "_states/_s-lastName";

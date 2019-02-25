@@ -1,0 +1,10 @@
+a {
+    &:visited {
+        color: $a-visited-color;
+    }
+
+    &:hover {
+        color: $a-hover-color;
+        text-decoration: underline;
+    }
+}

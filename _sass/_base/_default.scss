@@ -1,0 +1,130 @@
+html {
+    -ms-text-size-adjust: 100%; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 1 */
+    box-sizing: border-box; /* 2 */
+    scroll-behavior: smooth; /* 3 */
+}
+
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+    -ms-text-size-adjust: 100%; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 1 */
+    box-sizing: border-box; /* 2 */
+    scroll-behavior: smooth; /* 3 */
+    -webkit-font-feature-settings: "kern" 1;
+    -moz-font-feature-settings: "kern" 1;
+    -o-font-feature-settings: "kern" 1;
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $margin-down;
+}
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $base-font-weight;
+}
+
+
+/*
+ * Seccion de Codigo
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $pre-border-color;
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+pre {
+    padding: 1em;
+}
+
+
+// listas
+ul, ol {
+    margin-left: 0.1em;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li {
+    > ul,
+    > ol {
+        margin-bottom: 0;
+    }
+}
+
+a {
+    text-decoration: none; /* 1 */
+    //color: inherit; /* 1 */
+    background-color: transparent; /* 3 */
+}
+
+$base-spacing-unit: 24px;
+$half-spacing-unit: $base-spacing-unit / 2;
+
+$color-alpha: #1772FF;
+$color-form-highlight: #5f1812;
+
+table {
+	width: 100%;
+	border: 3px solid $color-form-highlight;
+  text-align: center;
+
+  thead {
+      background-color: #155149;
+      color: #A4FFF2;
+  }
+
+  tr:nth-child(odd) {
+      td:nth-child(odd) {
+          background-color: #AFCEBD;
+      }
+
+      td:nth-child(even) {
+          background-color: #FFF6EC;
+      }
+  }
+
+  tr:nth-child(even) {
+      td:nth-child(odd) {
+          background-color: #CCF6DF;
+      }
+
+      td:nth-child(even) {
+          background-color: #FFEBD3;
+      }
+  }
+}

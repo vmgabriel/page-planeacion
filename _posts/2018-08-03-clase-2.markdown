@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Informe Clase 2"
+date:   2018-08-03 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "No Puedo No Seguir Una Orden"
+description: "Clase enfocada en la construccion de una metodologia del desaprendizaje, el entendimiento de la misma es vital..."
+---
+La clase 2 tiene las caracteristicas que llevan a

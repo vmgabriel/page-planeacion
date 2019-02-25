@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="espacio">
+</div>
+
+<div class="post container">
+    <h1>Informes</h1>
+    <p>Cualquier clase de investigacion de menor alcance que trate de crecer como persona.</p>
+
+    <div class="container">
+        <ul class="post-list">
+            {% for post in site.posts %}
+            {% if post.reference == "mapa" %}
+            <li class="post-s-description">
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <h2 class="post-frase">{{ post.frase }}</h2>
+                <p class="post-description">{{ post.description }}</p>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
