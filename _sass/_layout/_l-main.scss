@@ -1,6 +1,30 @@
 .page-content {
     background-color: #C6C4AB;
     padding-bottom: 0;
+    text-align: justify;
+
+    em,blockquote {
+        font-style: italic;
+        font-weight: 300;
+    }
+
+    blockquote {
+        padding-left: 3em;
+        padding-right: 3em;
+    }
+
+    li {
+        ul {
+            list-style-type: square;
+            padding-left: 1em;
+            padding-right: 1em;
+        }
+    }
+
+    ol {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
 }
 
 .post {
