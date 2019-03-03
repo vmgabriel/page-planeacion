@@ -59,4 +59,4 @@ Ante todo ello, se propone un plan de gestión de la información para la atenci
 - [Organización Mundial del Comercio(OMC); 8 y 9 abril del 2013; Comercio Electrónico y Nuevas Tecnologías en Paises en Via de Desarrollo.]({{ site.baseurl }}/Proyecto/referencias/ecom_brochure_s.pdf "Referencia de la OMC para paises en via de Desarrollo"){:target="_blank"}
 - [Freeman, R. E. (1984). Strategic Management: A Stakeholder Approach. Boston: Pitman.]({{ site.baseurl }}/Proyecto/referencias/freeman-stakeholders.pdf "Administracion Estrategica de Freeman"){:target="_blank"}
 - [Diagrama de Gantt]({{ site.baseurl }}/Proyecto/ante-proyecto/gantt.png "Diagrama de Gantt")
-- [Imagen Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png "Mapa Mental 1")
+- [Imagen Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png "Mapa Mental")

@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 16"
+date:   2018-09-10 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Salida de Campo"
+description: "Y si mandamos a pasear los sentidos, entendemos la realidad como un todo... y comprendemos que todo esta unido de forma sinergica."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/16.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/16.png "Mapa Mental 16")</a>
+
+## Datos de la Clase
+### Objetivo
+- Desarrollar una metodología que explica los escenarios implicados para el mismo punto, comprender que la auditoria es difícil y que cada cosa explica generaliza como enfrentarlo, bajo la teoría del riesgo empezamos a tener la aplicación disruptiva de la misma, con ello, la teoría, análisis, metodología y gerencia de riegos que implicaba todo aquel esquema que pronto puede acelerar la implicación, instaurando la importancia de las herramientas como lo son, la misión, visión y la historia de la empresa, un análisis vertical y horizontal entendería la resistencia como un modelo basado por componentes, y lo a ello implica una generalización.
+
+### Lo que Aprendi
+Cada caso de implicación se presta para entender que la teoría de riesgos tenia una serie de pasos claros, con respecto a este, la auditoria es difícil, esto implicaría que un modelo no resolvería tan situación, una misión cada uno de los pasos, esto propone una misión con todo lo que se requiere lo que implica la misión, esto a ello correspondido, la historia de la empresa es importante, propone una metodología ante tal diseño, un análisis explicito que implica todo un desarrollo empleado a un esquema vertical y horizontal, bajo el manejo del mismo, la estructura es importante, el entorno en su características que propone un modelo que empleaba el entorno, bajo la estructura orgánica del mundo, director, apoyo, producción, manutención, adaptación implicaría el desarrollo, medible y cuantificable implicados en el desarrollo propuesto.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/16.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/16.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/16.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/16.xmind "Mapa Mental")
+

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Informe Clase 9"
+date:   2018-08-22 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Formacion en Ingenieria"
+description: "Los conceptos de Ingenieria dice que hay que aplicar las herramientas de formacion en ingenieria"
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/9.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/9.png "Mapa Mental 9")</a>
+
+## Datos de la Clase
+### Objetivo
+- Observar los diferentes aspectos que rodean el proceso directamente relacionados con la formación de los ingenieros, haciendo hincapié en los aspectos que  los que este debe verse inmerso, de eta manera se hace necesario el recalcar la participación relativos a las ciencias sociales, fácticas que se han visto devaluadas, con el énfasis en el cual se ve estructurada la educación ingenieril; de esta manera de igual forma se hace necesario hacer acercamiento histórico a los diferentes hechos que de igual forma involucran un aspecto esencial en la formación no solo de un ingeniero, sino de un auditor mismo, la economía.
+
+### Lo que Aprendi
+La ingeniería juega un papel esencial dentro de la sociedad, particularmente aquello relacionado con el control, e interventoría que se asocia a la auditoria de forma directa; que de manera específica en el desarrollo de la ingeniería de sistemas, se ve destacado, teniendo que a esta se le otorga especial control de sistemas de diferente clase, naturales, sociales, físicos, matemáticos e incluso político; de esta manera es de recalcar el papel de la auditoria como aquel elemento que  indica “Que se está haciendo y como se están haciendo las cosas”, con lo cual se ve directamente relacionada con elementos relativos a la calidad, del cual se tiene que “La calidad no existe, esta solo existe en el momento en el que se califica”; y de igual forma la economía como elemento modificador de diversos aspectos relativos a la organización y estructura social, siendo necesario recalcar no solo el papel que tiene el desarrollo tecnológico dentro de la colectividad, sino como ente que puede definir a organización en el cual se conforman sus estructuras pudiendo observar la implicaciones que este genera en el diseño de Planes Estratégicos De Información; este hecho es posible evidenciarlo en el proceso de avance que han tenido la economía y los procesos económicos en general dentro de la historia, desde la participación de civilizaciones como los Sumerios, la Egipcia, y los mesopotámicos, que se estructuraron de formas determinadas, definiendo a partir de estos diferentes aspectos socio-culturales; a partir de su desarrollo ingenieril en diferentes ámbitos.
+
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/9.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/9.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/9.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/9.xmind "Mapa Mental")
+

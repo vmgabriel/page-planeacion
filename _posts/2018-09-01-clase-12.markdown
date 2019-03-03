@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Informe Clase 12"
+date:   2018-09-01 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Problemas y Oportunidades"
+description: "Desarrollo de cada uno de los Procesos para las Oportunidades en el auge de las Nuevas Tecnologias"
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/12.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/12.png "Mapa Mental 12")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender que el mundo se le debe de ver de manera holística viendo el comportamiento del sistema con un eje principal a lo largo del diseño del modelo de una empresa, recordemos que una empresa u organización es un sistema de complejidad creciente del cual es influenciado por el exterior también conocido como exterior, también es vital que para el uso de diferentes esquemas metodológicos que comprenden que la comunicación controla y el control comunica.
+
+### Lo que Aprendi
+La sinergia de la empresa esta basado en la cultura organizacional, recordemos que nosotros no sabemos leer y que es vital para mantener un aprendizaje continuo, recordemos que debemos ser interactivos, el mundo requiere gente de este método, cuando se lee hay que entender el porqué, que, donde, con respecto a que, para que, cual entre otras cosas, también hay que aprender a hacer análisis de requerimientos, tener una formación política y con este entender la perversidad de un modelo económico así, recordar que la comunicación controla y el control comunica, chuman explica bien que es un sistema, con estos modelos la cibernética administrativa tiene ciertas cosas que son imprescindibles como lo son teoría de información, teoría de juegos, teoría de decisión, topología y matemática relacional, análisis fractal, ingeniería de sistemas e investigación de operaciones, lo cual se entiende como todos esos esquemas para que el sistema tenga afluentes.
+
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/12.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/12.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/12.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/12.xmind "Mapa Mental")
+

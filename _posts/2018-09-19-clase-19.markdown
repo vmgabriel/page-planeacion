@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 19"
+date:   2018-09-19 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Teoria de Procesos - Avanzado"
+description: "Nos adentramos cada vez en el objetivo de la organizacion, se debe tener conocimiento de su estructura, su organizacion, entre otras herramientas."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/19.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/19.png "Mapa Mental 19")</a>
+
+## Datos de la Clase
+### Objetivo
+- Determinar todo el proceso de inclusión natural empleado desde la estructura natural en el ejercicio de un ingeniero de sistemas y la estructura de desarrollo que ha formado un gran avance de todo el marco técnico metodología gestado desde la perspectiva normativa y de lenguaje empleado como una perspectiva subjetiva cambiante que puede significar fallos que involucren en el error de documentación que caracterizado en un gran cumulo de características dotadas para el marco metodológico del mismo, usando una perspectiva que lleva al uso de una solución factible en los proyectos.
+
+### Lo que Aprendi
+Cada caso de implicación se presta para entender que la teoría de riesgos tenia una serie de pasos claros, con respecto a este, la auditoria es difícil, esto implicaría que un modelo no resolvería tan situación, una misión cada uno de los pasos, esto propone una misión con todo lo que se requiere lo que implica la misión, esto a ello correspondido, la historia de la empresa es importante, propone una metodología ante tal diseño, un análisis explicito que implica todo un desarrollo empleado a un esquema vertical y horizontal, bajo el manejo del mismo, la estructura es importante, el entorno en su características que propone un modelo que empleaba el entorno, bajo la estructura orgánica del mundo, director, apoyo, producción, manutención, adaptación implicaría el desarrollo, medible y cuantificable implicados en el desarrollo propuesto.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/19.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/19.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/19.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/19.xmind "Mapa Mental")
+

@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Informe Clase 3"
+date:   2018-08-08 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Objetivo de un Ingeniero de Sistema"
+description: "De todos los conocimientos adquiridos el entender el mundo es el mas vital, recordemos que tambien podemos entender el mundo"
+---
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/3.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/3.png "Mapa Mental 3")</a>
+
+## Datos de la Clase
+### Objetivo
+- Reconocer la importancia de ver el mundo como un gerente, entender el adecuado comportamiento de un ingeniero, comprender que nuestro objeto de estudio es el mundo, el comportamiento correcto de analizar y diseñar, la suma de conocimientos que debe entender para que sea capaz de dar una solución a todos los problemas del mundo.
+
+### Lo que Aprendi
+Cabe comprender que el mundo es complejo, este es nuestro objeto de estudio no podemos dar soluciones lineales ante un grupo de problemas que reciben retroalimentación como si de un sistema cerrado se tratara, es así como debemos prever la incertidumbre, los problemas de frontera y la inter-trans-disciplinariedad que es una de los axiomas básicos para poder ver y analizar el mundo, debemos tener conocimientos seguros cualquier otra clase de opinión sesgada acerca de cualquier tema se conoce como doxa y la doxa no se debe a la razón.
+
+### Tabla de Datos
+
+| Consultas                                      | Biografias           | Libros         | Videos                  |
+| ---------                                      | ----------           | ------         | ------                  |
+| Olla a presion                                 | Julio Sanchez Cristo | Mapas Mentales | Pilar Sordo En Valdivia |
+| Que es un Sistema                              | Alvaro Gomez Hurtado |                |                         |
+| Elemento - Atributo - Relacion                 | Eduardo Posada       |                |                         |
+| Como Hablar dos Horas Sin Decir Nada           | Early Conde          |                |                         |
+| Cosmovision                                    |                      |                |                         |
+| Linealidad                                     |                      |                |                         |
+| Determinismo                                   |                      |                |                         |
+| Reduccionismo                                  |                      |                |                         |
+| Causalidad                                     |                      |                |                         |
+| Disciplinaridad                                |                      |                |                         |
+| Orden                                          |                      |                |                         |
+| Descubrimiento de la no-linealidad             |                      |                |                         |
+| Incertidumbre                                  |                      |                |                         |
+| Problema de Frontera                           |                      |                |                         |
+| Inter-multi-transdisciplinariedad              |                      |                |                         |
+| Carta a Enrique Peñalosa - Basura              |                      |                |                         |
+| Objeto de Estudio de la Ingeniería de Sistemas |                      |                |                         |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/3.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/3.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/3.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/3.xmind "Mapa Mental")

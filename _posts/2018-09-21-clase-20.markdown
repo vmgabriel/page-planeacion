@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 20"
+date:   2018-09-21 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Gerencia Viva"
+description: "Todos aquellos conocimientos ahora deben ser bien implementados y su estructura se basa en ello."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/20.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/20.png "Mapa Mental 20")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender la teoría de procesos para la gestión de la solución de un cumulo de problemas en la teoría de procesos y la ingeniería de sistemas desde el punto de vista de desarrollo con unas grandes características que pueden llevar a ampliar ese esquema y utilizarlo para los contextos diarios del desarrollo de los procesos de una empresa enfocado en cada una de las partes que puedan resultar del mismo y que por errores desde la perspectiva de percepción podemos trastornarlo y generalizarlo en un error que en ultimo puede resultar nocivo y dañino para la organización, errores que serán traducidos en malas decisiones.
+
+### Lo que Aprendi
+Con respecto a la sesión numero 20 que se dio el 21 de septiembre del 2018 participaron temas inapreciables en la toma de decisiones y la forma de ver un sistema en un proceso de forma satisfactoria lo que trae en perspectiva una gran ventaja con ingeniero de sistemas y como analista de sistemas, no solo con esto podemos referenciar un buen sistema con una perspectiva globalizada que con miras de ayuda a la solución que este posee desde una perspectiva que compete a una acción correcta del modo general del mismo modo, es  con ello que debemos entender no tomar decisiones en cosas que no sabemos y el aprender a delegar de forma correcta para un correcto funcionamiento para la organización que lleva a la solución optima que con una o dos formas de emplearlo consigo formando una metodología de desarrollo correcta desde el punto de vista de la planeación.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/20.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/20.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/20.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/20.xmind "Mapa Mental")
+

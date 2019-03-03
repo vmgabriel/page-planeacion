@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Informe Clase 5"
+date:   2018-08-13 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Para Auditar hay que Estar Despierto"
+description: "Un buen auditor construye y genera todos aquellos recursos, ve mas alla, genera conocimiento."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/5.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/5.png "Mapa Mental 5")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender que el mundo está diseñado para ser observado y podemos dejar en alto detalles importantes ya que no estamos activos para reconocer tal característica, quizás hasta se lo más importante para solucionar el problema y proponer un sistema, entender que la programación neuro-lingüística es vital para el desarrollo personal como ingeniero y gerente.
+
+### Lo que Aprendi
+Para ser un buen auditor hay que andar despierto, saber que hay que aplicar el enfoque sistémico ante cualquier duda y no olvidar los axiomas del sistema abierto y retroalimentado, las metodologías del pensamiento para el desarrollo práctico del entendimiento de un tema se conoce como mapa mental y es vital usarlo para poder corresponder los dos hemisferios cerebrales que poseemos, el aprendizaje organizacional es importantísimo, las personas relacionadas a la solución son vitales, sin embargo hay que ir más allá y obtener todos los interesados indirectos que debemos tener en cuenta para su posterior realización, las impresiones son importantes, la musica, la kinestesia entre otros.
+
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                            | Videos |
+| ---------                          | ----------      | ------                            | ------ |
+| Curso de Cursera                   | Tony Buzan      | La Vida Es Matematica             |        |
+| Historia de la administracion      | Palasino        | Cómo resolver problemas complejos |        |
+| Sistemas Suaves                    | Peter Checkland | Quinta Disciplina                 |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                   |        |
+| Que hizo paseando con los sentidos |                 |                                   |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/5.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/5.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/5.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/5.xmind "Mapa Mental")
+

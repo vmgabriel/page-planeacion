@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Informe Clase 10"
+date:   2018-08-24 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Programacion Neuro-lingüistica"
+description: "Todo conocimiento que nos construya como persona sea directa o indirectamente es vital, es por ello el gran esfuerzo de gestionar."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/10.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/10.png "Mapa Mental 10")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender que el Proyecto tiene una serie de pasos claros, entender cada uno de ellos, explicar el proceso de los tipos de proyectos, entender el marco lógico para proyectos de gran envergadura. Siempre ante cualquier inquietud hay que mirar todo con reserva, una clase informativa acerca de un fin-propósito-componentes-actividades, para el proyecto empresarial anteproyecto y proyecto, un resumen del proyecto. Un producto puede ser exitoso y puede dejar un proyecto que es un fracaso, todos los pasos para la construcción del análisis. Una definición clara del mismo.
+
+
+### Lo que Aprendi
+Muchas cosas fueron tocadas en esta clase, la utilización de la metodología acordada da una posibilidad de conocer casi cualquier cosa, entender la matriz de marco lógico y con esto entender el proyecto como una herramienta de la solución de problemas del mundo que se puede documentar con un anteproyecto y el proyecto que tienen todo claro para el desarrollo lógico del mismo, además saber que un proyecto puede resultar exitoso, sin embargo, un proyecto puede resultar un total desastre algo que es importante para el desarrollo ingenieril y la planeación del mismo ante el mismo.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/10.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/10.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/10.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/10.xmind "Mapa Mental")
+

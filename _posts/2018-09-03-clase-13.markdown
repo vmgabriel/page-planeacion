@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 13"
+date:   2018-09-03 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Usted no Sabe Leer"
+description: "Detallar es vital, los conocimientos deben ser filtrados y se deben usar para procesos de concepcion posteriores, por ello la cultura del desaprendizaje."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/13.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/13.png "Mapa Mental 13")</a>
+
+## Datos de la Clase
+### Objetivo
+- omprender que la idea de las empresas se pone con un objetivo claro, ganar dinero, la idea con esto es hacerlo de forma correcta, para una idea del sistema abierto de complejidad creciente con ello, se ponía una globalización esto puesto con la idea de verlo con cultura y economía, visto de un evolucionista comprendido como un esquema de adaptación. También como director que cumple el papel de dirigir, este, tiene que comprender toda la empresa, sucursales, sedes, comprender la empresa, lo que es que tiene característica de capacidad de gobernabilidad, dirección y gestión.
+
+### Lo que Aprendi
+Cuando entendemos que la sociedad como una estructura compleja, se ve interesado como herramienta de apoyo administrativo que son la misión, visión, indicadores e informes que es el exterior del sistema que pronto involucraría la solución de los problemas como lo son signos y síntomas, para con ello, se debe entender los sistemas sociales. El que hace la ley se enriquece, un administrador debe leer psicología y antropología que es la forma correcta de hacer las cosas de forma correcta, con respecto al entorno, la globalización     debe importar en una empresa y en un país (curiosamente en Colombia no). Gracias al concepto de director y Entorno que fundamenta una seria de características que involucraría el entorno como parte de un sistema dependiente de una empresa y este, al contrario.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/13.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/13.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/13.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/13.xmind "Mapa Mental")
+

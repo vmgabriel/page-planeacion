@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Informe Clase 4"
+date:   2018-08-10 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Debe Saber Cuando Recoger su Cosecha"
+description: "Las personas de hoy en dia trabajan sin un objetivo marcado y claro, las metas y el plan que tramamos para nuestras vidas debe tener un fin."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/4.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/4.png "Mapa Mental 4")</a>
+
+## Datos de la Clase
+### Objetivo
+- Entender que el tiempo es limitado y valioso, debemos hacer planes para con él y hacerlo bajo una fecha dad que se tiene que respetar, después de todo es objeto de análisis del ingeniero la planificación temporal de cualquier proyecto, estamos bajo la ingeniería del cuidado, mirar el aquí y el ahora
+
+### Lo que Aprendi
+Un ingeniero debe saber cuando debe recoger su cosecha para con ello debemos aplicar todo lo aprendido con la gestión de proyectos y proponer planes, alcanzar nuestras metas es vital, sabiendo que cada decisión que se tome tiene repercusiones debemos aprender a tomar las mejores decisiones y esto se hace con un uso adecuado de todos los conocimientos aplicados de las ciencias básicas, además de nuestras decisiones a la hora de ver y relacionar el problema, somos seres políticos, no podemos relegar las decisiones a otra persona y es por ello que debemos actuar en nuestro entorno e influir en él al punto de aprender de él y retroalimentarse para su posterior mejoramiento del mismo, la planeación debe ser a corto, mediano y largo plazo es vital tomar las decisiones adecuadas en el momento adecuado.
+
+### Tabla de Datos
+
+| Consultas                                    | Biografias     | Libros                                          | Videos                                    |
+| ---------                                    | ----------     | ------                                          | ------                                    |
+| Dibujo con las características de un gerente | Yeimmy Cano    | El club de los elegidos                         | TED                                       |
+| Coyuntural                                   | Bairon Prieto  | Como el BigData va a hacer a la gente más pobre | TED - Paulo                               |
+| Estructural                                  | Alfredo Molano | Un Matemático leyendo el Periódico              | Alfredo Molano le Gana la Batalla a Uribe |
+| Problema de Forma y Fondo                    | Julio Cortazar | El hombre anumerico                             |                                           |
+| Historia del San Juan de Dios                |                |                                                 |                                           |
+| Gerente                                      |                |                                                 |                                           |
+| Gerente Tecnologico                          |                |                                                 |                                           |
+| Gerente de Proyectos Informáticos            |                |                                                 |                                           |
+| Ciencia Generativa                           |                |                                                 |                                           |
+| Incose                                       |                |                                                 |                                           |
+| Taquigrafica                                 |                |                                                 |                                           |
+| Interactivo                                  |                |                                                 |                                           |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/4.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/4.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/4.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/4.xmind "Mapa Mental")
+

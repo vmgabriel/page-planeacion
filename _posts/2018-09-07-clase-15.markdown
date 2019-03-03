@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 15"
+date:   2018-09-07 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Sub-sistema de Viabilidad"
+description: "Muchos conocimientos acerca de los sistemas tienen que quedar claros, es por ello que cada uno de los procesos deben entenderse como un solo objetivo."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/15.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/15.png "Mapa Mental 15")</a>
+
+## Datos de la Clase
+### Objetivo
+- Con el desarrollo de la tecnología, así como el ritmo al cual se ha venido ajustando el ritmo de vida actual, son elementos que han conducido a insensibilizar y/o aletargar a la personas no solo como individuo pertenecientes a un colectivo social, sino sobre sí mismo, haciendo de este inconsciente no solo respecto a su papel como parte esencial en la formación de la sociedad a la que pertenecen, sino sobre su propio bienestar; de esta manera se plantea como objetivo el observar y concientizarse respecto al modo en que cada un maneja su vida, parando progresivamente, con la ayuda de diversas herramientas que se ajustan de forma inherente a la Programación Neurolingüística.
+
+### Lo que Aprendi
+Haciendo uso de diferentes herramientas de la Programación Neurolingüística, es posible el mejorar diferentes aspectos individuales relacionados con solo con la concienciación de respecto a si; sino con los procesos a través de los cuales nos vemos inmersos en la sociedad misma, teniendo así una mejora progresiva en elementos como la concentración, aprendizaje, control de emociones, imaginación, ente otros elementos de vital importancia en el desarrollo de actividades dentro de la cotidianidad en general, con el uso de actividades como el yoga; siendo precursores del mejoramiento del estado de salud físico y mental de forma individual; hecho reproducido por la colectividad en la que estese vea inmerso; hecho que se evidencio a través de la imaginación y desarrollo de la comprensión de una historia relacionada con una experiencia propia relatada por parte de un individuo en la misma.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/15.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/15.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/15.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/15.xmind "Mapa Mental")
+

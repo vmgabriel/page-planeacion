@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Informe Clase 11"
+date:   2018-08-29 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Sin Ideas no hay Proyectos"
+description: "El conocimiento se puede expresar de miles de maneras, sin embargo, es vital entender que la ingenieria requiere poner a colacion todos esos conocimientos que desde la teoria se hacen complicados."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/11.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/11.png "Mapa Mental 11")</a>
+
+## Datos de la Clase
+### Objetivo
+- Definir ámbitos vitales en el desarrollo corporativo y personal, enfocados en el entendimiento de los problemas que se somete un ingeniero y como estos son convertidos de forma correcta en oportunidades plausibles bajo el precepto diseñado para entender el mundo como un problema mal interpretado del cual es correspondiente a el entenderlo y resolverlo de forma correcta apoyados del buen funcionamiento de una empresa, transmitido bajo la síntesis de los interesados, entender cual es el origen de los sistemas como lo es la biología de la cual la ingeniería de sistemas le debe sus conceptos fundamentales y realistas.
+
+### Lo que Aprendi
+El conocimiento del mundo no es lineal, la pedagogía se hizo para niños, entender que hay que saber definir un problema para darle solución al mismo, que para abordarlo este tiene una serie de pasos, los cuales son drama, panacea, decisión, tragedia, paradoja y planteamiento, comprenderlo que usarlo de esa manera nos va a ayudar a dilucidar el limite y abordarlo correctamente, esto trae unas ventajas clara que pronto podremos ver, el planteamiento estratégico y el corroborar todas esas metodologías que son correspondientes a las mismas, que hay que atacar las causas de los problemas y no las consecuencias ya que en ellos no entenderíamos como parar la generación de los problemas sistémicos, recordar que el universo no es impune, que la evolución es ciega y esta no tiene teleología, que todo se hace dependiendo del observador y que con ello podemos corresponder todos esos hechos que podemos notar en los mismos.
+
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/11.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/11.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/11.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/11.xmind "Mapa Mental")
+

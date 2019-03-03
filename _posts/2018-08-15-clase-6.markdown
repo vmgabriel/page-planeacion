@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 6"
+date:   2018-08-15 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Como ser Auditor"
+description: "Caracteristicas, ventajas y fortalezas que tiene ver el mundo como un auditor al mundo."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/6.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/6.png "Mapa Mental 6")</a>
+
+## Datos de la Clase
+### Objetivo
+- Reconocer todo lo que se debe saber para ser un auditor, desde el punto de un gerente y/o un ingeniero de sistemas con conocimientos aptitudes y actitudes correctas desde el punto de vista de la aplicación de las ciencias básicas para el posterior uso, división de la persona que organiza, de la persona que resuelve y de la que ejecuta toda orden empleada, todos ellos con altos conocimientos técnicos.
+
+
+### Lo que Aprendi
+Todos los conocimientos prácticos impartidos para el diseño amplio de la metodología que no está ni estandarizada ni protocolizada, entender una empresa como un sistema abierto de complejidad creciente y todas las características que conlleva todo ello, el soporte técnico siendo altamente procedimental, sin embargo no genera una solución contundente a los problemas, así como entender que uns sistema está implementado como un conjunto de elementos con sus respectivas características que están relacionados entre sí para hacer un objetivo que tienen en común, lo que puede llegar a ocurrir son los problemas de interpretación al no ser netamente procedimental y no poseer un lenguaje común, con todo ello debemos reconocer que existen postulados conocidos como axiomas que debemos aprender profundamente.
+
+### Tabla de Datos
+
+| Consultas | Biografias | Libros                             | Videos    |
+| --------- | ---------- | ------                             | ------    |
+|           | Karls      | Practicas y Pensamiento de Sistema | La Corona |
+|           | Kant       | Problemas y Oportunidades          | Merlin    |
+|           | Gordon     | El Diario de un Dictador           |           |
+|           |            | Sistema de informacion Gerencial   |           |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/6.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/6.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/6.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/6.xmind "Mapa Mental")
+

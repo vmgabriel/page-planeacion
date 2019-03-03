@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Informe Clase 7"
+date:   2018-08-17 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Somos muy Agresivos"
+description: "El comportamiento de la perfeccion se genera para construir una persona, ese es el objetivo final, esa es la fogosidad de la vida."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/7.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/7.png "Mapa Mental 7")</a>
+
+## Datos de la Clase
+### Objetivo
+- Reconocer y Criticar la tendencia social colombiana de la agresividad, dar un punto de inflexión acerca de tal comportamiento, disponer la solucion empirica de la misma, entender que correspondemos a una filosofía y que está evoque las actitudes impartidas por la civilización actual bajo una metodología más tolerante y respetuosa del uno al otro.
+
+### Lo que Aprendi
+Un humano está inmerso en la filosofía del marrano, comer, dormir, coger y morir, este es el mismo esquema que no debemos representar, debemos reconocer que el entendimiento se dispone a ejercer toda aquella metodología de conocimiento aplicado a la teoría de dato e información que tanto se considera como correcta, es a ello que lo que implementamos un rol que podemos solventar y ejecutar para notar la disposición de las mismas. No manejamos los sentimientos ni tampoco tenemos un filtro lo que para ello se puede desprender toda aquella solución que brota de toda impresión o situación e identificarse con cada uno de ellos.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                  | Videos |
+| ---------                          | ----------      | ------                  | ------ |
+| Cibernética Social                 | Mario Benedetti | Informe de las Caricias |        |
+| 18 Esferas - Proyecto de Vida      | Isaac Asimov    | Arte de la Guerra       |        |
+| 7 leyes espirituales de Buda       |                 | El Santo                |        |
+| Cultura del Maíz                   |                 | Fundacion               |        |
+| Carta Chowsky y 17 intelectuales   |                 |                         |        |
+| Tapias                             |                 |                         |        |
+| Historia de la administracion      |                 |                         |        |
+| Sistemas Suaves                    |                 |                         |        |
+| Pensamiento en Accion Suave        |                 |                         |        |
+| Que hizo paseando con los sentidos |                 |                         |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/7.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/2.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/7.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/7.xmind "Mapa Mental")
+

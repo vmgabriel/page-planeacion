@@ -7,4 +7,33 @@ categories: clase informe
 frase: "No Puedo No Seguir Una Orden"
 description: "Clase enfocada en la construccion de una metodologia del desaprendizaje, el entendimiento de la misma es vital..."
 ---
-La clase 2 tiene las caracteristicas que llevan a
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/2.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/2.png "Mapa Mental 2")</a>
+
+## Datos de la Clase
+### Objetivo
+- Observar, indagar y proponer un enfoque de lo que un gerente es capaz de hacer facilmente y lo mucho que nos falta en pensamiento, gozo y respeto hacia nuestra especialidad, todo ello enfocado en la construcción de la orden, no podemos ser gerentes si no podemos seguir una orden.
+
+### Lo que Aprendi
+Lo vital de nuestro ejercicio es notar las falencias del mundo y proponer soluciones totalmente factibles todo ello sumergido bajo toda la implementación de los conocimientos científicos adquiridos dentro del alma mater, a ello, debemos aprender a usar todos los sentidos, indagar, proponer y diseñar una propuesta metodológica fuerte arraigada bajo los hábitos que puede tener un gerente a la hora de enfrentar un problema, lo cerca que se debe de estar en la administración de, las características básicas que llevan a incurrir en el planteamiento de decidir, qué teoría debe conocer, donde puedo hallarlo y cómo convertirnos en personas pensantes y metódicas.
+
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+| Verbo Oval                         |                 |                                    |        |
+| Doxa                               |                 |                                    |        |
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/2.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/2.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/2.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/2.xmind "Mapa Mental")
+

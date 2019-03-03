@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Informe Clase 18"
+date:   2018-09-17 12:00:00 -0500
+reference: clase
+categories: clase informe
+frase: "Gerencia Vs Planificacion Estrategica"
+description: "La filosifia del Parrillero ademas de los conocimientos que tienen estos son vitales para los procesos de avances del sistema y el entiendimiento del mismo."
+---
+
+## Mapa Mental
+<a href="{{ site.baseurl }}/MapasMentales/18.png">![Imagen Mapa Mental]({{ site.baseurl }}/MapasMentales/18.png "Mapa Mental 18")</a>
+
+## Datos de la Clase
+### Objetivo
+- Ampliar un espacio de desarrollo en diferentes ámbitos, especificando las características que traen a la hora de implementar una estructura grafica necesaria a lo largo del lenguaje natural del desarrollo y en especial la ingeniería de sistemas como un escenario vital en la proyección social dotada de dinámicas listas en empleo de las competencias que a estos alude en miras al amplio desarrollo que desea enfatizar las repercusiones optimas que generaliza el desarrollo automatizado al mismo y entendiendo que las características optimas de un sistema se encuentran dotadas de todos los conocimientos heurísticos basados en las cualidades del sistema y el empleo.
+
+### Lo que Aprendi
+Dentro de los acontecimientos acordados en el empleo de desarrollo de las facultades que acordes con la ingeniería de sistemas desde sus inicios de base teórica empleada para cada vez desarrollar y suponiendo cada una de las cosas que se caracterizan la teoría general de sistemas va sustentado en el desarrollo y metodología técnica empleada para formar una metodología correcta y dispendiosa que emplea el diseño no estructurado del mismo pero que al final desde miles de formas pueden tornar la metodología y la gestión como parte vital de las estructuras que en consecuencia traen a flote el diseño estructura y que formado del mismo podemos evidenciar, la característica básica del diseño estructura es el lenguaje común que este conlleva y que posee un amplio espectro que puede verse influenciado en la solución.
+
+### Tabla de Datos
+
+| Consultas                          | Biografias      | Libros                             | Videos |
+| ---------                          | ----------      | ------                             | ------ |
+| Caracteristicas de un gerente      | Tapias          | Practicas y Pensamiento de Sistema |        |
+| Historia de la administracion      | Palasino        |                                    |        |
+| Sistemas Suaves                    | Peter Checkland |                                    |        |
+| Pensamiento en Accion Suave        | Elzo Ferrari    |                                    |        |
+| Que hizo paseando con los sentidos |                 |                                    |        |
+
+
+## Links de Documentos
+- [Imagen de Mapa Mental]({{ site.baseurl }}/MapasMentales/18.png "Imagen de Mapa Mental")
+- [Informe de Clase]({{ site.baseurl }}/NotasClase/18.pdf "Informe Clase"){:target="_blank"}
+- [Presentacion respectiva a clase]({{ site.baseurl }}/MapasMentales/18.ppt "Presentacion Respectiva a Clase")
+- [Mapa Mental]({{ site.baseurl }}/MapasMentales/18.xmind "Mapa Mental")
+
