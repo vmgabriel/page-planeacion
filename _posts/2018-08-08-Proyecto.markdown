@@ -1,0 +1,132 @@
+---
+layout: post
+title:  "Informe de Proyecto"
+date:   2018-08-08 12:00:00 -0500
+reference: proyecto
+categories: proyecto informe
+frase: "Plan de Gestion Estrategioc para la atencion de tramientes en entidad Nueva EPS"
+description: "Plan de gestion para el desarrollo de la informacion interna de la organizacion y su respectivo proceso"
+---
+# Plan de Gestión Estratégico Para la Atención de Tramites en Entidad Nueva E.P.S.
+
+# Datos Relevantes de la Empresa
+
+![Logo de Nueva EPS]({{ site.baseurl }}/img/nuevaEPSLogo.jpg "Logo Nueva EPS")
+
+- **Nombre:** Nueva EPS S.A.
+- **Dirección general:** Carrera 85K No. 46A - 66 piso 2
+- **Línea Gratuita Nacional** 01 8000 954400
+- **Teléfonos administrativos:** (57+1) 419 3000
+- **Línea de atención en Bogotá** 3077022
+- **Pagina Web:** [nuevaeps.com.co](http://www.nuevaeps.com.co/Home.aspx "Nueva EPS Pagina")
+
+## Acerca de la Organizacion
+**NUEVA EPS** es una Sociedad Anónima constituida mediante la escritura pública No. 753 del 22 de marzo de 2007, que surge como Entidad Promotora de Salud del régimen contributivo a través de la Resolución No. 371 del 3 de abril de 2008 de la Superintendencia Nacional de Salud.
+
+La compañía se constituye como respuesta al informe del CONPES sobre la situación de la EPS del Instituto de Seguros Sociales (ISS. El primero de agosto de 2008 **NUEVA EPS** inició operaciones con los afiliados del ISS que fueron trasladados a la compañía. Luego de diez años de trabajo en la prestación de los beneficios del Plan de Beneficios en Salud (PBS) ha adquirido nuevos usuarios convirtiéndose en una de las más grandes EPS del país y la primera en cobertura al tener presencia en más 1090 municipios.
+
+## Sedes Administrativas a nivel Nacional
+
+
+| NOMBRE OFICINA          | TIPO      | DIRECCIÓN                                                                                          | BARRIO                                    |
+|-------------------------|-----------|----------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Dirección Nacional      | Principal | Carrera 85 K No. 46 A – 66.Bogotá, Cundinamarca.                                                   | Los Monjes                                |
+| Regional Bogotá         | Regional  | Carrera 85 K No. 46 A – 66. San Cayetano, local 28.Bogotá, Cundinamarca.                           | Los Monjes                                |
+| Regional Centro Oriente | Regional  | Carrera 85 K No. 46 A – 66. San Cayetano, local 28 Bogotá, Cundinamarca.                           | Los Monjes                                |
+| Ibagué                  | Zonal     | Cra. 5 No. 30 – 43, local 4.                                                                       | Carmenza Rocha                            |
+| Neiva                   | Zonal     | Cra 7 No. 15-45.                                                                                   | Quirinal                                  |
+| Sogamoso                | Zonal     | Calle 11 No. 12 - 34/38, local 207 y 208 edificio Colombia.                                        | Centro                                    |
+| Villavicencio           | Zonal     | Calle 34 No. 37 – 33.                                                                              | Barzal                                    |
+| Regional Nororiente     | Regional  | Carrera 35 No. 52-91 Bucaramanga, Santander.                                                       | Cabecera del Llano                        |
+| Cúcuta                  | Zonal     | Avenida 1 E No. 14 A – 17.                                                                         | Caobos                                    |
+| Regional Noroccidente   | Regional  | Calle 9 C sur No. 50 FF – 116, torre sur edificio 9 C sur Centro Empresarial. Medellín, Antioquia. | Guayabal                                  |
+| Montería                | Zonal     | Carrera 3 No. 30 - 08, piso 4.                                                                     | El Centro                                 |
+| Regional Norte          | Regional  | Calle 76 No. 49 C – 16 piso 5.Barranquilla, Atlántico.                                             | Altos del Prado, Comuna 18   localidad 3. |
+| Bolívar                 | Zonal     | Avenida Jiménez No. 19 - 71.                                                                       | Manga                                     |
+| Riohacha                | Zonal     | Calle 14 No. 12A – 121.                                                                            | Libertador                                |
+| Santa Marta             | Zonal     | Avenida del Libertador No. 29-151                                                                  | Avenida El Libertador                     |
+| Sincelejo               | Zonal     | Carrera 17 No. 26 – 32, piso 1.                                                                    | Calle Nariño                              |
+| Valledupar              | Zonal     | Carrera 10 No. 14-78                                                                               | Barrio Obrero                             |
+| Regional Eje Cafetero   | Regional  | Avenida 30 de agosto No. 35 – 08.Pereira, Risaralda.                                               | Avenida 30 de agosto                      |
+| Armenia                 | Zonal     | Avenida Bolívar No. 8N -70.                                                                        | Avenida Bolívar                           |
+| Manizales               | Zonal     | Carrera 23 C No. 62 – 27.                                                                          | Palo Grande, Comuna 8.                    |
+| Regional Suroccidente   | Regional  | Calle 10 No. 4 – 47, piso 23, edificio Corficolombiana. Cali, Valle del Cauca.                     | Centro                                    |
+| Pasto                   | Zonal     | Calle 19 No. 22 – 74.                                                                              | Centro                                    |
+| Popayán                 | Zonal     | Carrera 9 No. 13 N -72.                                                                            | El Recuerdo                               |
+|                         |           |                                                                                                    |                                           |
+
+
+## Justificación
+
+Las entidades de salud del mundo en la actualidad han estado atravesando fases de renovación y automatización de cada uno de los procesos de gestión de la información, esto a base de apoyar el tratamiento de la toma de decisiones a nivel de la planeacion que lleve a cumplir los objetivos misionales de la organización y en consecuencia encaminarse a los propósitos visionales de la entidad, siempre con una perspectiva holistico y sinérgica del sistema y su entorno.
+
+> A medida que las empresas elaboran productos más complejos, van creciendo las exigencias al entorno comunal, regional y nacional. Tanto la idea de que el Estado, como centro rector de la sociedad, es el único capaz de conducir los procesos tecnológicos y económicos, como el dogma de la subsidiariedad del estado frente a los procesos del mercado, Esto Incluye entidades de servicios públicos como lo son los de salud, transporte, agua, etc.**1**
+
+Además, *hay que admitir que hay un abismo tecnológico entre los diversos continentes desde el punto de vista de gestión, tecnología, preparación académica y sistémica* **2**; Sin embargo, esta no es pretexto para que organizaciones latinoamericanas no *tengan claro sus propios objetivos y conciban alertas tempranas para la explotación de oportunidades, estar preparados ante amenazas, y analizar tanto interna como externa la organización, esto, siempre buscando una organización inteligente y en estado emergente ante situaciones que pueden llegar a ser criticas y precarias* **3**.
+
+Ante todo ello, se propone un plan de gestión de la información para la atención de los tramites y el aseguramiento de la calidad del servicio dentro de la organización, para ello se usaran herramientas como lo son la teoría general de sistemas, sistemas adaptativos y complejos(CAS), gestión de riesgos y organizaciones inteligentes en busqueda de encaminar a la organización a competir y cooperar con clientes, organizaciones y/o en cualquier industria, mercado y localización primeramente en la nación, con miras de extenderse a otras regiones del globo y diversificar mercado, siempre prestando un servicio de calidad y preparado ante situaciones precarias y entropicas.
+
+#### Referencias de Justificacion
+1. [Organización de Naciones Unidas(ONU); Klass Esser,Wolfgang Hillerbrand,Dirk Messner,Jorg Meyer-Stamer; Santiago de Chile - 1998;Competitividad Sistémica Nuevo desafió para las empresas y la política; Capitulo 4.]({{ site.baseurl }}/Proyecto/referencias/onu-sistemas.pdf "Referencia de la ONU para las empresas"){:target="_blank"}
+2. [Organización Mundial del Comercio(OMC); 8 y 9 abril del 2013; Comercio Electrónico y Nuevas Tecnologías en Paises en Via de Desarrollo.]({{ site.baseurl }}/Proyecto/referencias/ecom_brochure_s.pdf "Referencia de la OMC para paises en via de Desarrollo"){:target="_blank"}
+3. [Freeman, R. E. (1984). Strategic Management: A Stakeholder Approach. Boston: Pitman.]({{ site.baseurl }}/Proyecto/referencias/freeman-stakeholders.pdf "Administracion Estrategica de Freeman"){:target="_blank"}
+
+## Vision General
+
+### Mision actual de la organizacion
+Trabajamos constantemente por asegurar y gestionar la protección integral de la salud de nuestros afiliados.
+
+- Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
+
+### Mision Planteada
+Ofrecer proteccion integral para asegurar la salud y proteccion en la poblacion afiliada incluyendo con personas caso de riesgo de vida.
+
+### Vision actual de la organizacion
+Ser reconocidos como la EPS líder en el aseguramiento y la protección integral de la salud de nuestros afiliados y en la implementación de modelos exitosos e innovadores de gestión; construyendo sinergias con clientes y proveedores, asegurando la excelencia operacional, con colaboradores comprometidos y generando valor a los accionistas y la sociedad.
+
+### Vision Planteada
+Nueva EPS se compromete a dar el mejor servicio de salud a nivel nacional, con el animo de dar nuestros servicios a nivel global, asegurando excelencia operacional, comprometidos con su entorno y su gestion transparente, siempre buscando procesos de mejora para su tecnica y tecnologia
+
+### Objetivo actual de la organizacion
+NUEVA EPS es una Sociedad Anónima constituida mediante la escritura pública No. 753 del 22 de marzo de 2007, que surge como Entidad Promotora de Salud del régimen contributivo a través de la Resolución No. 371 del 3 de abril de 2008 de la Superintendencia Nacional de Salud.
+
+La compañía se constituye como respuesta al informe del CONPES sobre la situación de la EPS del Instituto de Seguros Sociales (ISS). El primero de agosto de 2008 NUEVA EPS inició operaciones con los afiliados del ISS que fueron trasladados a la compañía. Luego de diez años de trabajo en la prestación de los beneficios del Plan de Beneficios en Salud (PBS) ha adquirido nuevos usuarios convirtiéndose en una de las más grandes EPS del país y la primera en cobertura al tener presencia en más 1090 municipios.
+
+Nos enfocamos en la calificación del riesgo de la población afiliada y en sus ciclos vitales, a través del desarrollo y aplicación de Programas de Promoción y Prevención que impacten al grupo familiar en el corto y mediano plazo.
+ 
+Somos un aliado del bienestar y la salud de nuestros afiliados; ofrecemos un servicio con sentido humano, basado en la oportunidad y la eficiencia, con un compromiso en materia de prevención, aseguramiento y cuidado de la salud de su grupo familiar.
+
+•Respeto.
+•Responsabilidad.
+•Honestidad.
+•Solidaridad. 
+
+### Objetivo Planteado
+
+### Desglose de Preguntas
+
+
+## Historia Empresarial
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eCFpDfECysbGfTkWuif7LHOtjb6urpYXVO38PCuPU1E&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+| Fecha             | Hechos Historicos                                                                                          | Hechos Tecnologicos            | Observaciones |
+|-------------------|------------------------------------------------------------------------------------------------------------|--------------------------------|---------------|
+| 2007 Enero 15     | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          | Creacion de la Organizacion    |               |
+| 2007 Marzo 22     | Documento CONPES 3456 de 2007                                                                              | Derecho Administrativo         |               |
+| 2008 Junio 1      | Inicio Usuarios de Alto Costo (Cartagena y Cúcuta)                                                         | Proceso de Investigacion       |               |
+| 2008 Abril 3      | Nace la nueva EPS que reemplazará al ISS                                                                   | Nueva infraestructura          |               |
+| 2008 Agosto 1     | Inicio de la Población total de Nueva EPS                                                                  |                                |               |
+| 2008 Mayo 30      | La Nueva EPS en reemplazo del Seguro Social iniciará con 180.000 afiliados de Bolivar y Norte de Santander | Generacion de usuarios         |               |
+| 2008 Junio 25     | Traslado del ISS a nueva EPS, es gratuito                                                                  | Alianzas estrategicas          |               |
+| 2009 Enero 17     | LA NUEVA EPS: SALUD O MERCADO                                                                              | Critica de los usuarios        |               |
+| 2016 Septiembre 8 | Las EPS que inflaron exageradamente los costos de medicamentos                                             | Corrupcion y Oligopolio        |               |
+| 2018 Febrero 25   | Así operaba la red que defraudó a la Nueva EPS                                                             | Seguridad Digital baja         |               |
+| 2017 Octubre 7    | Inauguran nueva central de urgencias en Medellín                                                           | Nueva infraestructura          |               |
+| 2018 Junio 13     | Nueva EPS estrena portal para mejorar servicios a usuarios                                                 | Nuevo software, automatizacion |               |
+| 2018 Febrero 7    | Clínica Metropolitana, el cementerio de la Nueva eps de Ibagué                                             | Nueva infraestructura          |               |
+| 2018 Mayo 30      | Nueva EPS, la mejor con enfermedades caras                                                                 | Premios y reconocimientos      |               |
+| 2018 Mayo 11      | Nueva EPS y Coomeva fueron las que más facturaron en el negocio de la salud                                | Ingresos altos                 |               |
+| 2018 Abril 17     | Conozca qué tan sanas están las finanzas de su Entidad Prestadora de Salud                                 | Reducidos costos               |               |
+| 2017 Diciembre 7  | Nueva EPS y Savia Salud son los mayores deudores de las clínicas y hospitales                              | Depreciacion de inversion      |               |
+| 2018 Diciembre 8  | “Hoy por hoy NUEVA EPS es la EPS más grande del país” Dr. José Fernando Cardona Uribe                      | Inversion y garantia           |               |
+| 2008 Abril 4      | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          |                                |               |
