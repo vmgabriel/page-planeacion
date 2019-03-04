@@ -112,3 +112,5 @@ Ante todo ello, se propone un plan de gestión de la información para la atenci
 - [Diagrama de Gantt]({{ site.baseurl }}/Proyecto/ante-proyecto/gantt.png "Diagrama de Gantt")
 - [Imagen Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png "Mapa Mental")
 - [Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/mapa-mental.xmind "Mapa Mental")
+- [Presentacion Anteproyecto]({{ site.baseurl }}/Proyecto/ante-proyecto/Ante-Proyecto.pptx "Presentacion AnteProyecto")
+- [Documento AnteProyecto]({{ site.baseurl }}/Proyecto/ante-proyecto/Ante-Proyecto.pdf "Documento AnteProyecto"){:target="_blank"}
