@@ -32,7 +32,7 @@ Ante todo ello, se propone un plan de gestión de la información para la atenci
 ### Objetivos Especificos
 
 - Construir un marco metodologico procedimental para desarrollo de plan estrategico.
-- Obtener informacion de fuentes primarias, en este caso conocimientos declientes.
+- Obtener informacion de fuentes primarias, en este caso conocimientos de clientes.
 - Determinar Interesados, obtener informacion referente a ello.
 - Ejecutar analisis holistico de Interesados, su entorno, comportamiento y uso al sistema.
 - Identificar cada uno de los procesos y sus respectivos comportamientos en el sistema, determinar entradas, proceso automatizado, y salidas de cada uno.
@@ -48,6 +48,55 @@ Ante todo ello, se propone un plan de gestión de la información para la atenci
 - Determinar amenazas y oportunidades, establecer criterios de mercadeo.
 - Proponer conclusiones adecuadas al sistema y cada uno de los procesos proponiendo un sistema mejor concebido y preparado para su implementacion.
 
+## Tecnicas
+- Sistemas Blandos
+- Empresa Sensual
+- Empresa Inmunologica
+- Anexo 5 de "Procedimiento de alineamiento de los planes tecnologicos" con el nombre "Estrategia y sistemas de Informacion"
+- Metodologia de recoleccion de informacion de primer nivel con metodo DELPHI
+- Metodo POAM
+- Metodo PEEA
+- Matriz de Boston
+- Matriz tecnologico de Stackeholder
+- Cadena de Valor
+- Diagrama de Gantt
+- Diagrama Conceptual
+
+## Metodologia
+1. Construccion de titulo de proyecto y su respectiva informacion.
+2. Implementar un ante-proyecto en la Organizacion.
+3. Construir Mapa Metodologico incluyendo el mapa de proceso para diagrama de Gantt, exponiendo cada uno de los elementos que trae el ante-proyecto
+4. Construir bajo metodologia el Diagrama de Gantt que servira como herramienta para la construccion de la implementacion del sistema y su debido desarrollo.
+5. Con Base a la metodologia de la auditoria de riesgos dotada por la ley Sarbanes-Oxley analizar mision y vision del sistema en si, en este caso la organizacion.
+6. Generar despliegue de preguntas con respecto para entender la base del sistema y de sus sub-sistemas.
+7. Bajo la ayuda de la complejidad y el pensamiento sistemico, construir y analizar dicha mision, vision y dar evaluarlo par a la organizacion y el entorno en si.
+8. Investigar y hacer un procesos de historia empresarial con la base de hacer un estado del arte.
+9. Verificar y revisar la estructura actual de la organizacion, comprendiendo su metodologia, sus planes y analizando sus politicas.
+10. Diseñar un diagrama organizacional con cada uno de los indicadores de gestion del sistema.
+11. Revisar en la organizacion general el proceso de comunicacion interna y externa del sistema, revisando la gravedad de cada uno, esto con base a la metodologia de Andrade para comunicacion en organizaciones.
+12. Contrastar los niveles funcionales del sistema.
+13. Verificar con la definicion del sistema dado bajo el esquema, en el anexo 5 de "Procedimiento de alineamiento de los planes tecnologicos" con el nombre "Estrategia y sistemas de Informacion":
+   + Direccion
+   + Mantencion
+   + Produccion
+   + Apoyo
+   + Adaptacion
+14. Adelantar investigacion del sistema para el analisis de la cadena de valor dentro de la organizacion.
+15. Construir una tabla de funciones de software, hardware y los procesos de dichas.
+16. Identificar el Proceso Principal de la Organizacion, los procesos secundarios, y de cada uno de ellos revisar la que afecta directamente al proceso que se esta evaluando, el proceso de aseguramiento de calidad para gestion a tramites.
+17. Identificar y analizar las entradas de dicho proceso, generando una comunicacion de los sistemas internos e involucrados, ademas del entorno de la organizacion.
+18. Desarrollar un diagnostico estrategico del sistema para el proceso de investigacion del mismo esto incluye:
+    - POAM
+    - PEEA
+    - Matriz de Boston
+19. Revisar Variables internas del Sistema y de Cada proceso, revisandolo con respecto al entorno y su comportamiento, esto con las preguntas del analisis de DELPHI hechas.
+20. Definir:
+    - Amenazas
+    - Riegos
+    - Oportunidades
+21. Construir matriz de stakeholder.
+22. Generar respectivas conclusiones.
+
 ## Mapa Metodologico
 <a href="{{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png">![Imagen Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png "Mapa Mental")</a>
 
@@ -58,5 +107,8 @@ Ante todo ello, se propone un plan de gestión de la información para la atenci
 - [Organización de Naciones Unidas(ONU); Klass Esser,Wolfgang Hillerbrand,Dirk Messner,Jorg Meyer-Stamer; Santiago de Chile - 1998;Competitividad Sistémica Nuevo desafió para las empresas y la política; Capitulo 4.]({{ site.baseurl }}/Proyecto/referencias/onu-sistemas.pdf "Referencia de la ONU para las empresas"){:target="_blank"}
 - [Organización Mundial del Comercio(OMC); 8 y 9 abril del 2013; Comercio Electrónico y Nuevas Tecnologías en Paises en Via de Desarrollo.]({{ site.baseurl }}/Proyecto/referencias/ecom_brochure_s.pdf "Referencia de la OMC para paises en via de Desarrollo"){:target="_blank"}
 - [Freeman, R. E. (1984). Strategic Management: A Stakeholder Approach. Boston: Pitman.]({{ site.baseurl }}/Proyecto/referencias/freeman-stakeholders.pdf "Administracion Estrategica de Freeman"){:target="_blank"}
+- [Andrade, H. (2005). Comunicación organizacional interna: procesos, disciplina y técnica. España: Gesbiblo S.L.]({{ site.baseurl }}/Proyecto/referencias/comunicacion-organizacion.pdf "Comunicacion en la Organizacion"){:target="_blank"}
+- [FORMACIÓN DEL PROFESORADO UNIVERSITARIO EN TIC. APLICACIÓN DEL MÉTODO DELPHI PARA LA SELECCIÓN DE LOS CONTENIDOS FORMATIVOS]({{ site.baseurl }}/Proyecto/referencias/metodo-delphi.pdf "Metodo Delphi"){:target="_blank"}
 - [Diagrama de Gantt]({{ site.baseurl }}/Proyecto/ante-proyecto/gantt.png "Diagrama de Gantt")
 - [Imagen Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/map-mental.png "Mapa Mental")
+- [Mapa Mental]({{ site.baseurl }}/Proyecto/ante-proyecto/mapa-mental.xmind "Mapa Mental")
