@@ -91,7 +91,11 @@ Somos una entidad prestadora de salud(EPS) que trabaja constantemente por asegur
 
 <a href="{{ site.baseurl }}/Proyecto/proyecto/mision-propuesta.png">![Mision Propuesta]({{ site.baseurl }}/Proyecto/proyecto/mision-propuesta.png "Mision Propuesta")</a>
 
-### Vision actual de la organizacion1
+### Mapa Mental de la Mision
+
+<a href="{{ site.baseurl }}/Proyecto/proyecto/plan-mision.png">![Maoa Mental Misional]({{ site.baseurl }}/Proyecto/proyecto/plan-mision.png "Mapa Mental Misional")</a>
+
+### Vision actual de la organizacion
 Ser reconocidos como la EPS líder en el aseguramiento y la protección integral de la salud de nuestros afiliados y en la implementación de modelos exitosos e innovadores de gestión; construyendo sinergias con clientes y proveedores, asegurando la excelencia operacional, con colaboradores comprometidos y generando valor a los accionistas y la sociedad.
 
 - Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
@@ -105,6 +109,10 @@ Ser reconocidos en un plazo de 20 años como la EPS líder en el aseguramiento y
 
 <a href="{{ site.baseurl }}/Proyecto/proyecto/vision-propuesta.png">![Vision Propuesta]({{ site.baseurl }}/Proyecto/proyecto/vision-propuesta.png "Vision Propuesta")</a>
 
+### Mapa Mental de la Vision
+
+<a href="{{ site.baseurl }}/Proyecto/proyecto/plan-vision.png">![Maoa Mental Visional]({{ site.baseurl }}/Proyecto/proyecto/plan-vision.png "Mapa Mental Visional")</a>
+
 ### Objetivo actual de la organizacion
 NUEVA EPS es una Sociedad Anónima constituida mediante la escritura pública No. 753 del 22 de marzo de 2007, que surge como Entidad Promotora de Salud del régimen contributivo a través de la Resolución No. 371 del 3 de abril de 2008 de la Superintendencia Nacional de Salud.
 
@@ -114,12 +122,10 @@ Nos enfocamos en la calificación del riesgo de la población afiliada y en sus 
  
 Somos un aliado del bienestar y la salud de nuestros afiliados; ofrecemos un servicio con sentido humano, basado en la oportunidad y la eficiencia, con un compromiso en materia de prevención, aseguramiento y cuidado de la salud de su grupo familiar.
 
-•Respeto.
-•Responsabilidad.
-•Honestidad.
-•Solidaridad. 
-
-### Objetivo Planteado
+- Respeto.
+- Responsabilidad.
+- Honestidad.
+- Solidaridad.
 
 ### Desglose de Preguntas
 
