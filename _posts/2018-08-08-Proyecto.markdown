@@ -128,7 +128,35 @@ Somos un aliado del bienestar y la salud de nuestros afiliados; ofrecemos un ser
 - Solidaridad.
 
 ### Desglose de Preguntas
+Las encuestas se hicieron bajo la piramide de Decision para una toma de resultados de forma mas eficiente
 
+#### Cuestionarios Online segun Piramide de Decision
+
+Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion segun los distintos niveles y dirección acerca del conocimiento de sus empleados acerca de su plan estratégico interno y políticas de la organización para la entidad de salud NUEVA EPS en asocio con Universidad Distrital Francisco José de Caldas en un esfuerzo de la organización para toma de decisiones acerca del plan estratégico para plan de gestión estratégico para la atención de tramites.
+
+##### Para Estrategicos
+[Encuesta para Estrategicos](https://arcg.is/HOfCD "Encuesta Para Estrategicos")
+
+- Codigo QR para Dispositivos Moviles
+![QR Encuesta para Estrategicos]({{ site.baseurl }}/Proyecto/proyecto/qr-estrategicos.png "QR Para Estrategicos")
+
+###### Investigacion Concerniente a resultados Estrategicos
+
+##### Para Tacticos
+[Encuesta para Tacticos](https://arcg.is/10S1jy0 "Encuesta Para Tacticos")
+
+- Codigo QR para Dispositivos Moviles
+![QR Encuesta para Tacticos]({{ site.baseurl }}/Proyecto/proyecto/qr-tacticos.png "QR Para Tacticos")
+
+###### Investigacion Concerniente a resultados Estrategicos
+
+##### Para Operativos
+[Encuesta para Operativos](https://arcg.is/eTm8H "Encuesta Para Operativos")
+
+- Codigo QR para Dispositivos Moviles
+![QR Encuesta para Operativos]({{ site.baseurl }}/Proyecto/proyecto/qr-operativos.png "QR Para Operativos")
+
+###### Investigacion Concerniente a resultados Estrategicos
 
 ## Historia Empresarial
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eCFpDfECysbGfTkWuif7LHOtjb6urpYXVO38PCuPU1E&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
