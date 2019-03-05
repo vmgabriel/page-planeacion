@@ -78,6 +78,8 @@ Trabajamos constantemente por asegurar y gestionar la protección integral de la
 
 - Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
 
+<a href="{{ site.baseurl }}/Proyecto/proyecto/mision-actual.png">![Mision Actual]({{ site.baseurl }}/Proyecto/proyecto/mision-actual.png "Mision Actual")</a>
+
 ### Mision Planteada
 Ofrecer proteccion integral para asegurar la salud y proteccion en la poblacion afiliada incluyendo con personas caso de riesgo de vida.
 
