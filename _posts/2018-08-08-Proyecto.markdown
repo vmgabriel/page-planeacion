@@ -13,6 +13,10 @@ description: "Plan de gestion para el desarrollo de la informacion interna de la
 
 ![Logo de Nueva EPS]({{ site.baseurl }}/img/nuevaEPSLogo.jpg "Logo Nueva EPS")
 
+- **Miembros del Proyecto**
+    - Daissi Bibiana Gonzalez Roldan
+    - Gabriel Vargas Monroy
+
 - **Nombre:** Nueva EPS S.A.
 - **Dirección general:** Carrera 85K No. 46A - 66 piso 2
 - **Línea Gratuita Nacional** 01 8000 954400
@@ -81,13 +85,25 @@ Trabajamos constantemente por asegurar y gestionar la protección integral de la
 <a href="{{ site.baseurl }}/Proyecto/proyecto/mision-actual.png">![Mision Actual]({{ site.baseurl }}/Proyecto/proyecto/mision-actual.png "Mision Actual")</a>
 
 ### Mision Planteada
-Ofrecer proteccion integral para asegurar la salud y proteccion en la poblacion afiliada incluyendo con personas caso de riesgo de vida.
+Somos una entidad prestadora de salud(EPS) que trabaja constantemente por asegurar y gestionar la protección integral de la salud[1] de cada uno de los afiliados, disponiendo para el adscrito un Diagnostico Integral en Salud(DIS) bajo la resolución 0425 del 2008 para evaluación y control de planes de salud, siempre con el animo de mejorar las condiciones de vida de las personas y comunidades de la región, posicionándonos  como una de las mejores entidades para el bienestar de nuestros afiliados.
 
-### Vision actual de la organizacion
+- Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
+
+<a href="{{ site.baseurl }}/Proyecto/proyecto/mision-propuesta.png">![Mision Propuesta]({{ site.baseurl }}/Proyecto/proyecto/mision-propuesta.png "Mision Propuesta")</a>
+
+### Vision actual de la organizacion1
 Ser reconocidos como la EPS líder en el aseguramiento y la protección integral de la salud de nuestros afiliados y en la implementación de modelos exitosos e innovadores de gestión; construyendo sinergias con clientes y proveedores, asegurando la excelencia operacional, con colaboradores comprometidos y generando valor a los accionistas y la sociedad.
 
+- Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
+
+<a href="{{ site.baseurl }}/Proyecto/proyecto/vision-actual.png">![Vision Actual]({{ site.baseurl }}/Proyecto/proyecto/vision-actual.png "Vision Actual")</a>
+
 ### Vision Planteada
-Nueva EPS se compromete a dar el mejor servicio de salud a nivel nacional, con el animo de dar nuestros servicios a nivel global, asegurando excelencia operacional, comprometidos con su entorno y su gestion transparente, siempre buscando procesos de mejora para su tecnica y tecnologia
+Ser reconocidos en un plazo de 20 años como la EPS líder en el aseguramiento y la protección integral de la salud de nuestros afiliados y en la implementación de modelos exitosos e innovadores de gestión; construyendo sinergias con clientes y proveedores, asegurando la excelencia operacional, con colaboradores comprometidos y generando valor a los accionistas y la sociedad.
+
+- Protección integral de la salud: prevenir, mantener y  mejorar la salud de la población afiliada.
+
+<a href="{{ site.baseurl }}/Proyecto/proyecto/vision-propuesta.png">![Vision Propuesta]({{ site.baseurl }}/Proyecto/proyecto/vision-propuesta.png "Vision Propuesta")</a>
 
 ### Objetivo actual de la organizacion
 NUEVA EPS es una Sociedad Anónima constituida mediante la escritura pública No. 753 del 22 de marzo de 2007, que surge como Entidad Promotora de Salud del régimen contributivo a través de la Resolución No. 371 del 3 de abril de 2008 de la Superintendencia Nacional de Salud.
