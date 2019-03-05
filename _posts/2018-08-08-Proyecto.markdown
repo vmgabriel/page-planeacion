@@ -182,3 +182,38 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 | 2017 Diciembre 7  | Nueva EPS y Savia Salud son los mayores deudores de las clínicas y hospitales                              | Depreciacion de inversion      |               |
 | 2018 Diciembre 8  | “Hoy por hoy NUEVA EPS es la EPS más grande del país” Dr. José Fernando Cardona Uribe                      | Inversion y garantia           |               |
 | 2008 Abril 4      | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          |                                |               |
+
+## Cadena de Valor
+
+## Funciones y Procesos
+
+### Mapa Mental Atencion al Cliente
+<a href="{{ site.baseurl }}/Proyecto/proyecto/atencion-cliente.png">![Mapa Mental Atencion Al Cliente]({{ site.baseurl }}/Proyecto/proyecto/atencion-cliente.png "Mapa Mental Atencion Al Cliente")</a>
+
+### Mapa Mental Ingreso/Retiro Afiliado
+<a href="{{ site.baseurl }}/Proyecto/proyecto/i-r-afiliado.png">![Ingreso/retiro Afiliado]({{ site.baseurl }}/Proyecto/proyecto/i-r-afiliado.png "Ingreso/Retiro Afiliado")</a>
+
+### Mapa Mental Solicitudes Afiliados
+<a href="{{ site.baseurl }}/Proyecto/proyecto/solicitud-afiliado.png">![Solicitud Afiliado]({{ site.baseurl }}/Proyecto/proyecto/solicitud-afiliado.png "Solicitud Afiliado")</a>
+
+## Diagnostico Estrategico
+
+### POAM
+
+### PEEA
+
+### Matriz de Boston
+
+## Variables del Sistema
+
+## Definiciones de Aseguramiento de Calidad
+
+### Oportunidad
+
+### Amenaza
+
+### Riesgo
+
+## Matriz de Stackeholder
+
+## Conclusiones y Toma de Decisiones
