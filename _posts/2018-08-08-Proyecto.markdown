@@ -95,13 +95,13 @@ NUEVA EPS es una Sociedad Anónima constituida mediante la escritura pública No
 La compañía se constituye como respuesta al informe del CONPES sobre la situación de la EPS del Instituto de Seguros Sociales (ISS). El primero de agosto de 2008 NUEVA EPS inició operaciones con los afiliados del ISS que fueron trasladados a la compañía. Luego de diez años de trabajo en la prestación de los beneficios del Plan de Beneficios en Salud (PBS) ha adquirido nuevos usuarios convirtiéndose en una de las más grandes EPS del país y la primera en cobertura al tener presencia en más 1090 municipios.
 
 Nos enfocamos en la calificación del riesgo de la población afiliada y en sus ciclos vitales, a través del desarrollo y aplicación de Programas de Promoción y Prevención que impacten al grupo familiar en el corto y mediano plazo.
- 
+
 Somos un aliado del bienestar y la salud de nuestros afiliados; ofrecemos un servicio con sentido humano, basado en la oportunidad y la eficiencia, con un compromiso en materia de prevención, aseguramiento y cuidado de la salud de su grupo familiar.
 
 •Respeto.
 •Responsabilidad.
 •Honestidad.
-•Solidaridad. 
+•Solidaridad.
 
 ### Objetivo Planteado
 
@@ -132,3 +132,35 @@ Somos un aliado del bienestar y la salud de nuestros afiliados; ofrecemos un ser
 | 2017 Diciembre 7  | Nueva EPS y Savia Salud son los mayores deudores de las clínicas y hospitales                              | Depreciacion de inversion      |               |
 | 2018 Diciembre 8  | “Hoy por hoy NUEVA EPS es la EPS más grande del país” Dr. José Fernando Cardona Uribe                      | Inversion y garantia           |               |
 | 2008 Abril 4      | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          |                                |               |
+
+## Análisis de Estructura Orgánica
+### Estructura Organizacional Actual
+![Organigrama Actual]({{ site.baseurl }}/img/organigrama2018.jpg "Organigrama Actual")
+
+###Subsistemas
+#### Subsitemas de Apoyo
+![Apoyo]({{ site.baseurl }}/img/apoyo.png "Apoyo")
+
+#### Subsistemas Directores o Gerenciales
+![Directores]({{ site.baseurl }}/img/directores.png "Directores")
+
+#### Subsistemas Tecnicos o de Produccion
+![Produccion]({{ site.baseurl }}/img/produccion.png "Produccion")
+
+#### Subsistemas de Adaptación
+![Adaptacion]({{ site.baseurl }}/img/adaptacion.png "Adaptacion")
+
+#### Subsistemas de Mantenimiento
+![Mantenimiento]({{ site.baseurl }}/img/mantenimiento.png "Mantenimiento")
+
+### Niveles Funcionales
+| Subsistema               | Funciones                                                                                                     | Descripción                                                                                                                                                                                                                                                                                             |
+|--------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apoyo                    | - Respaldo de base para el funcionamiento de los otros subsistemas                                            | Encargados de mantener el control institucional, proporcionando un buen ambiente socia y de trabajo; asi como la garantizacion de que los demas subsistemas posean los recursos necesarios para su funcionamiento, encargandose de la obtencion, distribucion y dirección de insumos a cada subsistema. |
+| Directores o Gerenciales |  - Gestion Administrativa - Retroalimentacion Especializada -Regular funciones de otros subsistemas           | Son los organizadores de los subsisemas, definiendose a si como una estructura de autoridad.                                                                                                                                                                                                            |
+| Tecnicos o de Producción |  - Realizacion de actividades comerciales de la empresa - Procesamiento y Tranformacion, de lineas de negocio | Se encarga de los procesos relacionados con la produccion y ejecución de funciones relacionadas con lo educativo, politico y economico.                                                                                                                                                                 |
+| Adaptación               | - Investigacion del producto - Investigacion de mercado - Planeamiento a largo plazo                          | Se encarga de la investigacion de procesos relacionados con el desarrollo comercial de las actividades comerciales de la empresa, garantizando la supervivencia de la organización.                                                                                                                     |
+| Mantenimiento            | - Gestiona politicas de actuación                                                                             | Se define como aque que mantiene los diferentes subsistemas funcionando ante cualquier eventualidad o hecho emergente determinado.                                                                                                                                                                      |
+
+### Integración de Subsistemas
+![Organigrama]({{ site.baseurl }}/img/juntaDirectiva.png "Organigrama")
