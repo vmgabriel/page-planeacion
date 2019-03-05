@@ -183,10 +183,10 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 | 2018 Diciembre 8  | “Hoy por hoy NUEVA EPS es la EPS más grande del país” Dr. José Fernando Cardona Uribe                      | Inversion y garantia           |               |
 | 2008 Abril 4      | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          |                                |               |
 
-### Estructura Organizacional Actual
+## Estructura Organizacional Actual
 ![Organigrama Actual]({{ site.baseurl }}/img/organigrama2018.jpg "Organigrama Actual")
 
-###Subsistemas
+### Subsistemas
 #### Subsitemas de Apoyo
 ![Apoyo]({{ site.baseurl }}/img/apoyo.png "Apoyo")
 
