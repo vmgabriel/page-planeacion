@@ -183,26 +183,27 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 | 2018 Diciembre 8  | “Hoy por hoy NUEVA EPS es la EPS más grande del país” Dr. José Fernando Cardona Uribe                      | Inversion y garantia           |               |
 | 2008 Abril 4      | SUPERSALUD AUTORIZÓ - CONSTITUCIÓN DE “NUEVA EPS”                                                          |                                |               |
 
-### Estructura Organizacional Actual
-![Organigrama Actual]({{ site.baseurl }}/img/organigrama2018.jpg "Organigrama Actual")
+## Estructura Organizacional Actual
+<a href="{{ site.baseurl }}/img/organigrama2018.png">![Organigrama Actual]({{ site.baseurl }}/img/organigrama2018.jpg "Organigrama Actual")</a>
 
-###Subsistemas
-#### Subsitemas de Apoyo
-![Apoyo]({{ site.baseurl }}/img/apoyo.png "Apoyo")
+### Subsistemas
+#### Subsistemas de Apoyo
+<a href="{{ site.baseurl }}/img/apoyo.png">![Apoyo]({{ site.baseurl }}/img/apoyo.png "Apoyo")</a>
 
 #### Subsistemas Directores o Gerenciales
-![Directores]({{ site.baseurl }}/img/directores.png "Directores")
+<a href="{{ site.baseurl }}/img/directores.png">![Directores]({{ site.baseurl }}/img/directores.png "Directores")</a>
 
 #### Subsistemas Tecnicos o de Produccion
-![Produccion]({{ site.baseurl }}/img/produccion.png "Produccion")
+<a href="{{ site.baseurl }}/img/produccion.png">![Produccion]({{ site.baseurl }}/img/produccion.png "Produccion")</a>
 
 #### Subsistemas de Adaptación
-![Adaptacion]({{ site.baseurl }}/img/adaptacion.png "Adaptacion")
+<a href="{{ site.baseurl }}/img/adaptacion.png">![Adaptacion]({{ site.baseurl }}/img/adaptacion.png "Adaptacion")</a>
 
 #### Subsistemas de Mantenimiento
-![Mantenimiento]({{ site.baseurl }}/img/mantenimiento.png "Mantenimiento")
+<a href="{{ site.baseurl }}/img/mantenimiento.png">![Mantenimiento]({{ site.baseurl }}/img/mantenimiento.png "Mantenimiento")</a>
 
 ### Niveles Funcionales
+
 | Subsistema               | Funciones                                                                                                     | Descripción                                                                                                                                                                                                                                                                                             |
 |--------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Apoyo                    | - Respaldo de base para el funcionamiento de los otros subsistemas                                            | Encargados de mantener el control institucional, proporcionando un buen ambiente socia y de trabajo; asi como la garantizacion de que los demas subsistemas posean los recursos necesarios para su funcionamiento, encargandose de la obtencion, distribucion y dirección de insumos a cada subsistema. |
@@ -212,7 +213,7 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 | Mantenimiento            | - Gestiona politicas de actuación                                                                             | Se define como aque que mantiene los diferentes subsistemas funcionando ante cualquier eventualidad o hecho emergente determinado.                                                                                                                                                                      |
 
 ### Integración de Subsistemas
-![Organigrama]({{ site.baseurl }}/img/juntaDirectiva.png "Organigrama")
+<a href="{{ site.baseurl }}/img/juntaDirectiva.png">![Organigrama]({{ site.baseurl }}/img/juntaDirectiva.png "Organigrama")</a>
 
 ## Cadena de Valor
 
