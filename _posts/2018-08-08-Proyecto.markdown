@@ -216,6 +216,27 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 <a href="{{ site.baseurl }}/img/juntaDirectiva.png">![Organigrama]({{ site.baseurl }}/img/juntaDirectiva.png "Organigrama")</a>
 
 ## Cadena de Valor
+<a href="{{ site.baseurl }}/img/cadenaValor.PNG">![CadenaDeValor]({{ site.baseurl }}/img/cadenaValor.PNG "CadenaDeValor")</a>
+
+### Actividades Primarias
+
+| Actividad                              | Descripción                                                                                     |
+|----------------------------------------|-------------------------------------------------------------------------------------------------|
+| LogÍstica Interna                      | Abarca las operaciones de recepción, almacenamiento y distribucion de materias primas.          |
+| Operaciones o Producción               | Proceso funcional de la empresa, desarrollo de la linea de negocio (producto o servicio).       |
+| Logística Externa                      | Proceso de distribucion o acceso al mercado de la linea de negocio.                             |
+| Marketing y Ventas                     | Actividades publicitarias para promocionar producto y/o servicio.                               |
+| Servicio de post-venta o mantenimiento | Actividades destinadas a mantener, realzar el valor de la linea de negocio y aplicar garantías. |
+
+
+###Actividades de Apoyo
+
+| Actividades                                          | Descripción                                                                  |
+|------------------------------------------------------|------------------------------------------------------------------------------|
+| Infraetructura de la organización                    | Entes encargados de prestar actividades que prestan apoyo a toda la empresa. |
+| Dirección de recursos humanos                        | Sector encargado de la búsqueda, contratación y motivación del personal.     |
+| Desarrollo de tecnología, investigación y desarrollo | Generadores de costes y valor.                                               |
+| Compras                                              | Sector encargado de la realización de compras.                               |
 
 ## Funciones y Procesos
 
