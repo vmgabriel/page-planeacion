@@ -229,7 +229,7 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 | Servicio de post-venta o mantenimiento | Actividades destinadas a mantener, realzar el valor de la linea de negocio y aplicar garantías. |
 
 
-###Actividades de Apoyo
+### Actividades de Apoyo
 
 | Actividades                                          | Descripción                                                                  |
 |------------------------------------------------------|------------------------------------------------------------------------------|
@@ -252,6 +252,12 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 ## Diagnostico Estrategico
 
 ### POAM
+#### Definiciones de Aseguramiento de Calidad
+- **Importancia:** Relación de factor con valor institucional.
+- **Impacto:** Comportamiento del factor con perspectiva de desarrollo institucional
+- **Ponderado:** Multiplicación de importancia e impacto, para saber si es oportunidad o amenaza.
+- **Amenaza:** Permite observar las debilidades de un factor que tiene frente al entorno.
+- **Oportunidad:** Permite observar en que aspectos de la empresa podrá seguir fortaleciéndose para alcanzar sus metas.
 
 ### PEEA
 
@@ -259,13 +265,6 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 
 ## Variables del Sistema
 
-## Definiciones de Aseguramiento de Calidad
-
-### Oportunidad
-
-### Amenaza
-
-### Riesgo
 
 ## Matriz de Stackeholder
 
