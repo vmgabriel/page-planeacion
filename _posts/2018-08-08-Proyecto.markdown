@@ -249,6 +249,10 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 ### Mapa Mental Solicitudes Afiliados
 <a href="{{ site.baseurl }}/Proyecto/proyecto/solicitud-afiliado.png">![Solicitud Afiliado]({{ site.baseurl }}/Proyecto/proyecto/solicitud-afiliado.png "Solicitud Afiliado")</a>
 
+## Control Interno
+### PCI
+<a href="{{ site.baseurl }}/img/PCI.PNG">![PCI]({{ site.baseurl }}/img/PCI.PNG "PCI")</a>
+
 ## Diagnostico Estrategico
 
 ### POAM (Entrada de Datos)
@@ -263,7 +267,8 @@ Investigación de campo Gerencial en la Toma de Decisiones de la Organizacion se
 
 ### PEEA (Ajuste)
 
-### Matriz de Boston (Evaluacion y Recursos)
+### Matriz de Boston (Evaluación y Recursos)
+
 
 ### Posicionamiento Estrategico
 <a href="{{ site.baseurl }}/img/POAM.PNG">![Posicionamiento]({{ site.baseurl }}/img/posicionamiento.PNG "Posicionamiento")</a>
