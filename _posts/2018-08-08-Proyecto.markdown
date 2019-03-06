@@ -446,7 +446,9 @@ Con el proceso de atencion al cliente se tiene que entender que la relacion de c
 
 ## Diagnostico Estrategico
 
-### POAM
+### POAM (Entrada de Datos)
+<a href="{{ site.baseurl }}/img/POAM.PNG">![POAM]({{ site.baseurl }}/img/POAM.PNG "POAM")</a>
+
 #### Definiciones de Aseguramiento de Calidad
 - **Importancia:** Relación de factor con valor institucional.
 - **Impacto:** Comportamiento del factor con perspectiva de desarrollo institucional
@@ -454,11 +456,15 @@ Con el proceso de atencion al cliente se tiene que entender que la relacion de c
 - **Amenaza:** Permite observar las debilidades de un factor que tiene frente al entorno.
 - **Oportunidad:** Permite observar en que aspectos de la empresa podrá seguir fortaleciéndose para alcanzar sus metas.
 
-### PEEA
+### PEEA (Ajuste)
 
-### Matriz de Boston
+### Matriz de Boston (Evaluacion y Recursos)
 
-## Variables del Sistema
+### Posicionamiento Estrategico
+<a href="{{ site.baseurl }}/img/POAM.PNG">![Posicionamiento]({{ site.baseurl }}/img/posicionamiento.PNG "Posicionamiento")</a>
+
+#### Estrategias
+Se tiene que la empresa se encuentra en el cuarto cuadrante, hecho que es consecuente con una de los matodologias aplicadas anteiormente, teniendo la reinvencion la estructura organica del mismo; teniendola como una de las posibles sooluciones, teniendo como alternativas la liquidación, o asociacion con otras empresas del sector.
 
 
 ## Matriz de Stackeholder
